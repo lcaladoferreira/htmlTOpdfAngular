@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+}
+
+#html {
+  box-sizing: border-box;
+  width: 190mm;
+  font-size: 4mm;
+}
+
+table {
+  width: 100%;
+  margin-top: 10mm;
+  border-spacing: 0;
+  border-collapse: 0;
+  border-top: 0.1mm solid #000;
+  border-left: 0.1mm solid #000;
+}
+td,
+th {
+  border-bottom: 0.1mm solid #000;
+  border-right: 0.1mm solid #000;
+}
+
+svg {
+  display: none;
+}
