@@ -1,7 +1,7 @@
 import React from "react";
 import { jsPDF, jsPDFOptions } from "jspdf";
 import "./styles.css";
-import Survey from "./Survey";
+// import Survey from "./Survey";
 import Pwc from "./Pwc";
 
 const options: jsPDFOptions = {
